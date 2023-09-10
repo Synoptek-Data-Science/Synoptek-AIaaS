@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'synoptek-aiaas'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_8B5DFF9F3F954E2E8E8B44967E951EAB }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_4E0E4EFC27DE4EB69DECB70204E846B3 }}
